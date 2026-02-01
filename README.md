@@ -30,9 +30,9 @@ lavoro tra **didattica, sviluppo software e sport**, con un focus su sistemi tec
 
 ### 📚 didattica interattiva
 
-Presentazioni React animate per le lezioni — clicca sul titolo per la demo live:
+Presentazioni React animate per le lezioni — clicca sul titolo per la presentazione live:
 
-| Argomento | Demo | Repository |
+| Argomento | Presentazione | Repository |
 |-----------|------|------------|
 | 🌐 **Simulazione ISO/OSI** | [▶️ Live](https://thomascasali.github.io/simulazione-iso-osi/) | [GitHub](https://github.com/thomascasali/simulazione-iso-osi) |
 | 🔐 **Crittografia RSA** | [▶️ Live](https://thomascasali.github.io/rsa-slides/) | [GitHub](https://github.com/thomascasali/rsa-slides) |
