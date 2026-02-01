@@ -85,18 +85,6 @@ Presentazioni React animate per le lezioni — clicca sul titolo per la presenta
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thomascasali&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomascasali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🌍 contatti
 
 📍 Cesenatico, Italy  
