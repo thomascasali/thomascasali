@@ -26,7 +26,7 @@ lavoro tra **didattica, sviluppo software e sport**, con un focus su sistemi tec
 |----------|-------|-------------|
 | **TeamToDo** | Flutter + Firebase | task manager collaborativo • [Play Store](https://play.google.com/store) |
 | **SportCenter Live** | Flutter + RTMP | app per streaming eventi sportivi |
-| **MaraffaOnline** | Node.js + WebSocket | piattaforma multiplayer per giochi di carte |
+| **MaraffaOnline** | Node.js + WebSocket | piattaforma multiplayer per giochi di carte [maraffaonline.it](https://maraffaonline.it) |
 
 ### 📚 didattica interattiva
 
