@@ -37,6 +37,7 @@ Presentazioni React animate per le lezioni — clicca sul titolo per la presenta
 | 🌐 **Simulazione ISO/OSI** | [▶️ Live](https://thomascasali.github.io/simulazione-iso-osi/) | [GitHub](https://github.com/thomascasali/simulazione-iso-osi) |
 | 🔐 **Crittografia RSA** | [▶️ Live](https://thomascasali.github.io/rsa-slides/) | [GitHub](https://github.com/thomascasali/rsa-slides) |
 | 🛡️ **Firewall & ACL** | [▶️ Live](https://thomascasali.github.io/presentazione-firewall-acl/) | [GitHub](https://github.com/thomascasali/presentazione-firewall-acl) |
+| 🔒 **VPN** | [▶️ Live](https://thomascasali.github.io/presentazione-vpn/) | [GitHub](https://github.com/thomascasali/presentazione-vpn) |
 | 📡 **VLAN & Subnetting** | [▶️ Live](https://thomascasali.github.io/presentazione-vlan/) | [GitHub](https://github.com/thomascasali/presentazione-vlan) |
 | 🌍 **IPv6** | [▶️ Live](https://thomascasali.github.io/presentazione-ipv6/) | [GitHub](https://github.com/thomascasali/presentazione-ipv6) |
 | ⚠️ **Minacce Informatiche** | [▶️ Live](https://thomascasali.github.io/presentazione-minacce-informatiche/) | [GitHub](https://github.com/thomascasali/presentazione-minacce-informatiche) |
