@@ -15,10 +15,14 @@ lavoro tra **didattica, sviluppo software e sport**, con un focus su sistemi tec
 | Progetto | Descrizione |
 |----------|-------------|
 | **[Aibvc.app](https://aibvc.app)** | piattaforma per la gestione dell'attività dell'Associazione Italiana Beach Volley Club |
+| **[Tornei.app](https://tornei.app)** | piattaforma multi-tenant per l'organizzazione e la gestione di tornei di beach volley |
 | **[ClubSeries.it](https://clubseries.it)** | piattaforma per la gestione del campionato di beach volley per società Club Series AIBVC |
 | **[ClubSeries.app](https://clubseries.app)** | piattaforma per la gestione delle Club Serie Finals |
 | **[BeachArena.it](https://beacharena.it)** | ecosistema digitale per eventi sportivi, società e atleti |
+| **[BeachVolleySociety.com](https://beachvolleysociety.com)** | community digitale per giocatrici e giocatori di beach volley |
 | **[Palabvu.it](https://palabvu.it)** | ecosistema digitale per gestione di un centro sportivo |
+| **[CentroSportivo.online](https://centrosportivo.online)** | prenotazione online di campi e corsi per centri sportivi |
+| **[FivBeach.com](https://fivbeach.com)** | consultazione dei tornei internazionali di beach volley |
 
 ### 💻 app & software
 
@@ -26,6 +30,7 @@ lavoro tra **didattica, sviluppo software e sport**, con un focus su sistemi tec
 |----------|-------|-------------|
 | **TeamToDo** | Flutter + Firebase | task manager collaborativo • [Play Store](https://play.google.com/store) |
 | **SportCenter Live** | Flutter + RTMP | app per streaming eventi sportivi |
+| **[Fichess](https://github.com/thomascasali/fichess)** | Flutter | client mobile non ufficiale per FICS, il Free Internet Chess Server — in arrivo su App Store e Play Store |
 | **MaraffaOnline** | Node.js + WebSocket | piattaforma multiplayer per giochi di carte [maraffaonline.it](https://maraffaonline.it) |
 
 ### 📚 didattica interattiva
@@ -44,6 +49,7 @@ Presentazioni React animate per le lezioni — clicca sul titolo per la presenta
 | 🧱 **OOP - Programmazione ad Oggetti** | [▶️ Live](https://thomascasali.github.io/presentazione-oop/) | [GitHub](https://github.com/thomascasali/presentazione-oop) |
 | 🗄️ **SQLite** | [▶️ Live](https://thomascasali.github.io/dispensa-sqlite/) | [GitHub](https://github.com/thomascasali/dispensa-sqlite) |
 | 📧 **Google Workspace** | [▶️ Live](https://thomascasali.github.io/google-workspace-slides/) | [GitHub](https://github.com/thomascasali/google-workspace-slides) |
+| 💰 **Criptovalute** | — | [GitHub](https://github.com/thomascasali/criptovalute) |
 
 ---
 
