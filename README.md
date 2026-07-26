@@ -49,8 +49,6 @@ Presentazioni React animate per le lezioni — clicca sul titolo per la presenta
 | 🧱 **OOP - Programmazione ad Oggetti** | [▶️ Live](https://thomascasali.github.io/presentazione-oop/) | [GitHub](https://github.com/thomascasali/presentazione-oop) |
 | 🗄️ **SQLite** | [▶️ Live](https://thomascasali.github.io/dispensa-sqlite/) | [GitHub](https://github.com/thomascasali/dispensa-sqlite) |
 | 📧 **Google Workspace** | [▶️ Live](https://thomascasali.github.io/google-workspace-slides/) | [GitHub](https://github.com/thomascasali/google-workspace-slides) |
-| 💰 **Criptovalute** | — | [GitHub](https://github.com/thomascasali/criptovalute) |
-
 ---
 
 ## 🧠 ambiti di interesse
