@@ -21,6 +21,7 @@ Most of my code runs in production for people who don't care what stack it is. A
 | [fivbeach.com](https://fivbeach.com) | Browse international beach volley tournaments |
 | [beacharena.it](https://beacharena.it) | Digital ecosystem for a beach arena: events, clubs, athletes, plus the ESP32+RFID system that opens the doors and meters the showers, with a Telegram bot for ops |
 | [aibvc.app](https://aibvc.app) | Management platform for the Italian Beach Volley Club association |
+| [centrosportivo.online](https://multicentro.centrosportivo.online/portale) | Online booking of courts and classes for sports centres, multi-centre portal |
 | [maraffaonline.it](https://maraffaonline.it) | Multiplayer card games in the browser (Node.js + WebSocket), with ELO rankings |
 | [TeamToDo](https://teamtodo.work) | Task management for teams, my first published Flutter app: free on the [App Store](https://apps.apple.com/it/app/teamtodo/id6759438222) and [Play Store](https://play.google.com/store/apps/details?id=work.teamtodo.app), plus a [web app](https://app.teamtodo.work) |
 | [Fichess](https://github.com/thomascasali/fichess) | Unofficial mobile client for FICS, the Free Internet Chess Server (Flutter) |
@@ -62,7 +63,7 @@ Lo stesso metodo raccontato per gli studenti: [una presentazione interattiva in 
 | [clubseries.app](https://clubseries.app) | Gestione delle Club Series Finals |
 | [beacharena.it](https://beacharena.it) | Ecosistema digitale per eventi sportivi, società e atleti, con controllo accessi ESP32+RFID e bot Telegram |
 | [palabvu.it](https://palabvu.it) | Ecosistema digitale per la gestione di un centro sportivo |
-| [centrosportivo.online](https://centrosportivo.online) | Prenotazione online di campi e corsi per centri sportivi |
+| [centrosportivo.online](https://multicentro.centrosportivo.online/portale) | Prenotazione online di campi e corsi per centri sportivi, portale multi-centro |
 | [fivbeach.com](https://fivbeach.com) | Consultazione dei tornei internazionali di beach volley |
 
 ### App e software
