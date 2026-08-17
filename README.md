@@ -24,6 +24,7 @@ Most of my code runs in production for people who don't care what stack it is. A
 | [aibvc.app](https://aibvc.app) | Management platform for the Italian Beach Volley Club association |
 | [beachvolleysociety.com](https://beachvolleysociety.com) | Community for beach volley players, web and mobile |
 | [maraffaonline.it](https://maraffaonline.it) | Multiplayer card games in the browser (Node.js + WebSocket), with ELO rankings |
+| [TeamToDo](https://teamtodo.work) | Task management for teams, my first published Flutter app: free on the [App Store](https://apps.apple.com/it/app/teamtodo/id6759438222) and [Play Store](https://play.google.com/store/apps/details?id=work.teamtodo.app), plus a [web app](https://app.teamtodo.work) |
 | [Fichess](https://github.com/thomascasali/fichess) | Unofficial mobile client for FICS, the Free Internet Chess Server (Flutter) |
 | School portals | Parents sign school paperwork with an email OTP; an AI assistant reads circulars over Telegram |
 
@@ -71,7 +72,7 @@ Lo stesso metodo raccontato per gli studenti: [una presentazione interattiva in 
 
 | Progetto | Stack | Descrizione |
 |---|---|---|
-| TeamToDo | Flutter + Firebase | Task manager collaborativo |
+| [TeamToDo](https://teamtodo.work) | Flutter + Firebase | Gestione task per team, la mia prima app Flutter pubblicata: gratuita su [App Store](https://apps.apple.com/it/app/teamtodo/id6759438222) e [Play Store](https://play.google.com/store/apps/details?id=work.teamtodo.app), più [web app](https://app.teamtodo.work) |
 | SportCenter Live | Flutter + RTMP | Streaming di eventi sportivi |
 | [Fichess](https://github.com/thomascasali/fichess) | Flutter | Client mobile non ufficiale per FICS, il Free Internet Chess Server |
 | [MaraffaOnline](https://maraffaonline.it) | Node.js + WebSocket | Giochi di carte multiplayer nel browser, con classifiche ELO |
