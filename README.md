@@ -18,13 +18,13 @@ Most of my code runs in production for people who don't care what stack it is. A
 
 | Project | What it does |
 |---|---|
-| [tornei.app](https://tornei.app) | Multi-tenant platform for running beach volley tournaments |
 | [fivbeach.com](https://fivbeach.com) | Browse international beach volley tournaments |
 | [beacharena.it](https://beacharena.it) | Digital ecosystem for a beach arena: events, clubs, athletes, plus the ESP32+RFID system that opens the doors and meters the showers, with a Telegram bot for ops |
 | [aibvc.app](https://aibvc.app) | Management platform for the Italian Beach Volley Club association |
 | [maraffaonline.it](https://maraffaonline.it) | Multiplayer card games in the browser (Node.js + WebSocket), with ELO rankings |
 | [TeamToDo](https://teamtodo.work) | Task management for teams, my first published Flutter app: free on the [App Store](https://apps.apple.com/it/app/teamtodo/id6759438222) and [Play Store](https://play.google.com/store/apps/details?id=work.teamtodo.app), plus a [web app](https://app.teamtodo.work) |
 | [Fichess](https://github.com/thomascasali/fichess) | Unofficial mobile client for FICS, the Free Internet Chess Server (Flutter) |
+| [tornei.app](https://tornei.app) | Multi-tenant platform for running beach volley tournaments |
 | School portals | Parents sign school paperwork with an email OTP; an AI assistant reads circulars over Telegram |
 
 Stack, when it matters: Laravel and Node.js on the back end, Vue and React on the web, Flutter on mobile, Docker + Traefik on a couple of VPS, ESP32 for the hardware bits.
@@ -58,7 +58,6 @@ Lo stesso metodo raccontato per gli studenti: [una presentazione interattiva in 
 | Progetto | Descrizione |
 |---|---|
 | [aibvc.app](https://aibvc.app) | Piattaforma per la gestione dell'attività dell'Associazione Italiana Beach Volley Club |
-| [tornei.app](https://tornei.app) | Piattaforma multi-tenant per l'organizzazione e la gestione di tornei di beach volley |
 | [clubseries.it](https://clubseries.it) | Gestione del campionato di beach volley per società Club Series AIBVC |
 | [clubseries.app](https://clubseries.app) | Gestione delle Club Series Finals |
 | [beacharena.it](https://beacharena.it) | Ecosistema digitale per eventi sportivi, società e atleti, con controllo accessi ESP32+RFID e bot Telegram |
@@ -73,6 +72,7 @@ Lo stesso metodo raccontato per gli studenti: [una presentazione interattiva in 
 | [TeamToDo](https://teamtodo.work) | Flutter + Firebase | Gestione task per team, la mia prima app Flutter pubblicata: gratuita su [App Store](https://apps.apple.com/it/app/teamtodo/id6759438222) e [Play Store](https://play.google.com/store/apps/details?id=work.teamtodo.app), più [web app](https://app.teamtodo.work) |
 | SportCenter Live | Flutter + RTMP | Streaming di eventi sportivi |
 | [Fichess](https://github.com/thomascasali/fichess) | Flutter | Client mobile non ufficiale per FICS, il Free Internet Chess Server |
+| [tornei.app](https://tornei.app) | Laravel + Vue | Piattaforma multi-tenant per l'organizzazione e la gestione di tornei di beach volley |
 | [MaraffaOnline](https://maraffaonline.it) | Node.js + WebSocket | Giochi di carte multiplayer nel browser, con classifiche ELO |
 
 ### Didattica interattiva
