@@ -35,7 +35,7 @@ Interactive React presentations I use in class, in Italian, all with a live page
 
 ## Contact
 
-Cesenatico, Italy · casali.thomas@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-casali-b038462a5/)
+Cesenatico, Italy · casali.thomas@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomascasali/)
 
 ---
 
@@ -113,6 +113,6 @@ ITIS: Sistemi e Reti, TPSIT, GPOI, Informatica. Programmazione a oggetti (C#, Ja
 
 ## Contatti
 
-Cesenatico · casali.thomas@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomas-casali-b038462a5/)
+Cesenatico · casali.thomas@gmail.com · [LinkedIn](https://www.linkedin.com/in/thomascasali/)
 
 > *Credo in una tecnologia che serva le persone, nello sport come nella scuola.*
