@@ -8,7 +8,7 @@ Computer science teacher at a technical high school in Italy by day, indie devel
 
 **[claude-kb-workflow](https://github.com/thomascasali/claude-kb-workflow)**, a memory system for Claude Code. Inside a session the model remembers everything; between sessions nothing survives. The toolkit compiles messy sessions into a wiki and promotes a page to a stable knowledge base only after it has held up in production on a second project. I've been running it since April 2026 on the projects listed below, and it's public from 18 August 2026. Docs in English and Italian.
 
-The same method, told for students: [an interactive presentation in five acts](https://thomascasali.github.io/presentazione-kb-workflow/) (Italian, [source](https://github.com/thomascasali/presentazione-kb-workflow)).
+The same method, told for students: [an interactive presentation in five acts](https://thomascasali.github.io/presentazione-kb-workflow/?lang=en) (English and Italian, [source](https://github.com/thomascasali/presentazione-kb-workflow)).
 
 If you try the toolkit and something breaks, [open an issue](https://github.com/thomascasali/claude-kb-workflow/issues). If you want to talk about how you keep knowledge between sessions, [Discussions](https://github.com/thomascasali/claude-kb-workflow/discussions) is the place.
 
@@ -50,7 +50,7 @@ Ciao, sono Thomas. Di giorno insegno informatica alle superiori (Sistemi e Reti,
 
 **[claude-kb-workflow](https://github.com/thomascasali/claude-kb-workflow)**: un sistema di memoria per Claude Code. Dentro una sessione l'AI ricorda tutto; tra una sessione e l'altra non sopravvive niente. Il toolkit trasforma le sessioni sporche in una wiki e promuove una pagina alla knowledge base stabile solo dopo che ha retto in produzione su un secondo progetto. Lo faccio girare da aprile 2026 sui progetti elencati sotto, ed è pubblico dal 18 agosto 2026. Documentazione in inglese e in italiano, e l'italiano non è una traduzione di cortesia.
 
-Lo stesso metodo raccontato per gli studenti: [una presentazione interattiva in cinque atti](https://thomascasali.github.io/presentazione-kb-workflow/) ([sorgente](https://github.com/thomascasali/presentazione-kb-workflow)).
+Lo stesso metodo raccontato per gli studenti: [una presentazione interattiva in cinque atti](https://thomascasali.github.io/presentazione-kb-workflow/) (in italiano e inglese, [sorgente](https://github.com/thomascasali/presentazione-kb-workflow)).
 
 ## Progetti
 
