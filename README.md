@@ -32,7 +32,7 @@ Stack, when it matters: Laravel and Node.js on the back end, Vue and React on th
 
 ## Teaching material
 
-Interactive React presentations I use in class, in Italian, all with a live page: [ISO/OSI simulation](https://thomascasali.github.io/simulazione-iso-osi/), [RSA cryptography](https://thomascasali.github.io/rsa-slides/), [firewalls and ACLs](https://thomascasali.github.io/presentazione-firewall-acl/), [VPN](https://thomascasali.github.io/presentazione-vpn/), [VLAN and subnetting](https://thomascasali.github.io/presentazione-vlan/), [IPv6](https://thomascasali.github.io/presentazione-ipv6/), [security threats](https://thomascasali.github.io/presentazione-minacce-informatiche/), [OOP](https://thomascasali.github.io/presentazione-oop/), [SQLite](https://thomascasali.github.io/dispensa-sqlite/), [Google Workspace](https://thomascasali.github.io/google-workspace-slides/). Full table in the Italian section below.
+Interactive React presentations I use in class, in Italian, all with a live page: [ISO/OSI simulation](https://thomascasali.github.io/simulazione-iso-osi/), [RSA cryptography](https://thomascasali.github.io/rsa-slides/), [firewalls and ACLs](https://thomascasali.github.io/presentazione-firewall-acl/), [VPN](https://thomascasali.github.io/presentazione-vpn/), [VLAN and subnetting](https://thomascasali.github.io/presentazione-vlan/), [IPv6](https://thomascasali.github.io/presentazione-ipv6/), [security threats](https://thomascasali.github.io/presentazione-minacce-informatiche/), [OOP](https://thomascasali.github.io/presentazione-oop/), [SQLite](https://thomascasali.github.io/dispensa-sqlite/), [Google Workspace](https://thomascasali.github.io/google-workspace-slides/), [IoT in the wild: an RFID access-control case study](https://thomascasali.github.io/beacharena-rfid-case-study/) — a real deployment told with all its failures. Full table in the Italian section below.
 
 ## Contact
 
@@ -93,6 +93,7 @@ Presentazioni React animate per le lezioni. Il titolo apre la presentazione live
 | SQLite | [Live](https://thomascasali.github.io/dispensa-sqlite/) | [GitHub](https://github.com/thomascasali/dispensa-sqlite) |
 | Google Workspace | [Live](https://thomascasali.github.io/google-workspace-slides/) | [GitHub](https://github.com/thomascasali/google-workspace-slides) |
 | Dare una memoria all'AI | [Live](https://thomascasali.github.io/presentazione-kb-workflow/) | [GitHub](https://github.com/thomascasali/presentazione-kb-workflow) |
+| Caso di studio IoT: accessi RFID in spiaggia | [Live](https://thomascasali.github.io/beacharena-rfid-case-study/) | [GitHub](https://github.com/thomascasali/beacharena-rfid-case-study) |
 
 ## In classe
 
