@@ -1,6 +1,6 @@
 # Thomas Casali
 
-I teach computer science at a technical high school in Italy and write software for sport and for schools after hours, mostly on my own. Almost everything below runs in production for people who never ask what stack it is. Since 2025 I build it with AI coding agents, Claude Code above all.
+I teach computer science at a technical high school in Italy and write software for sport and for schools after hours, mostly on my own. Almost everything below runs in production for people who never ask what stack it is. I build it with AI coding agents, Claude Code above all.
 
 [🇮🇹 Versione italiana più sotto](#-versione-italiana)
 
@@ -81,7 +81,7 @@ Cesenatico, Italy · casali.thomas@gmail.com · [LinkedIn](https://www.linkedin.
 
 # 🇮🇹 Versione italiana
 
-Insegno informatica in un istituto tecnico (Sistemi e Reti, TPSIT, GPOI) e nel tempo libero sviluppo software per lo sport e per la scuola, quasi sempre da solo. Alleno e organizzo beach volley, per questo metà dei progetti ha a che fare con la sabbia. Da un paio d'anni lavoro con agenti di programmazione, soprattutto Claude Code.
+Insegno informatica in un istituto tecnico (Sistemi e Reti, TPSIT, GPOI) e nel tempo libero sviluppo software per lo sport e per la scuola, quasi sempre da solo. Alleno e organizzo beach volley, per questo metà dei progetti ha a che fare con la sabbia. Lavoro con agenti di programmazione, soprattutto Claude Code.
 
 Le tabelle in inglese qui sopra valgono anche per la versione italiana. In breve:
 
