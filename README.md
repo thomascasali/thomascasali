@@ -36,7 +36,6 @@ Every presentation opens from its title; all in Italian unless marked. Ogni pres
 | Slide | Di cosa parla | Codice |
 |---|---|---|
 | [Vollytics, il viaggio](https://thomascasali.github.io/vollytics-il-viaggio/) | Come nasce un progetto di IA, dal video di una partita al riconoscimento di giocatori, palla e punteggio. Per le quinte, errori compresi | [repo](https://github.com/thomascasali/vollytics-il-viaggio) |
-| [BallVisionAI](https://thomascasali.github.io/ballvision-slides/) | Statistiche di gara da una sola telecamera | [repo](https://github.com/thomascasali/ballvision-slides) |
 | [BeachArena RFID](https://thomascasali.github.io/beacharena-rfid-case-study/) | Caso di studio IoT: controllo accessi in spiaggia con ESP32, Laravel e un bot Telegram | [repo](https://github.com/thomascasali/beacharena-rfid-case-study) |
 | [Memoteca](https://thomascasali.github.io/presentazione-memoteca/) | Come porto quello che imparo su un progetto negli altri, lavorando con Claude Code (IT/EN) | [repo](https://github.com/thomascasali/presentazione-memoteca) |
 
